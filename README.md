@@ -1,5 +1,6 @@
 # workoutLogMap-Leaflet
  this project is created using leaflet library is used for more info https://leafletjs.com/ .
+
 NOTE-
 1. Allow browser to access your location 
 2. view this application using desktop mode (in case of mobile)
